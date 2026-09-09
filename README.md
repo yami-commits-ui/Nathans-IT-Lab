@@ -11,15 +11,11 @@ their names, settings, and time.
 
 ![OU structure](01-OU-Structure-region.png)
 *Regional OU structure (USA, Europe, Asia) *
-
 ![Groups misplaced](02-USA-groups-misplaced-under-servers-OU.png)
 *Groups mistakenly created under the Servers OU instead of Users*
-
 ![Servers department highlight](03-USA-groups-servers-department-higlight.png)
 *Identifying the misplaced groups under Servers*
-
 ![Selecting and moving](04-USA-groups-users-select-move.png)
 *Selecting the groups and using the Move function*
-
 ![Final result](05-USA-groups-users-positioned.png)
 *Final result — groups correctly positioned under the Users OU*
