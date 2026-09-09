@@ -10,7 +10,7 @@ Computers and used the Move function to relocate them to the correct Users OU, p
 their names, settings, and time.
 
 ![OU structure](01-OU-Structure-region.png)
-*Regional OU structure (USA, Europe, Asia)*
+*Regional OU structure (USA, Europe, Asia) *
 
 ![Groups misplaced](02-USA-groups-misplaced-under-servers-OU.png)
 *Groups mistakenly created under the Servers OU instead of Users*
